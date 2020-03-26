@@ -1,1 +1,1 @@
-from . import thing_scale150kg
+from . import things_scale150kg
